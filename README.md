@@ -71,3 +71,6 @@ rm -f setup.sh && apt update -y && apt-get update -y && sysctl -w net.ipv6.conf.
 
 
 ------------
+**Telegram**
+------------
+[Senovpn](https://t.me/senovpn)
